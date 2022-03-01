@@ -1,0 +1,31 @@
+.heading {
+   font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+  margin-top: 40px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  
+  color: #B9BDCF;
+  
+    
+}
+.paper{
+display:'flex';
+ flex-direction:'row'; 
+}
+.emailheading{
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  width: 300px;
+  color: #334680;
+   
+
+}

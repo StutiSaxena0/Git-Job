@@ -1,0 +1,13 @@
+.fontLabel {
+    font-weight: bolder;
+}
+
+.leftbar-search {
+    width: 320px;
+    margin: 15px 0px;
+    padding: 0.3rem 2rem;
+}
+
+.formGroup {
+    margin: 1rem 0;
+}
